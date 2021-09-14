@@ -1,7 +1,8 @@
 # Project Title
 
->>>> ![picture 2](images/8f0c03658be07a44c00ce4719987d47a82034f9ec8be1d21788cd99dedf996d0.png) 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55876739/133317364-870dfcd2-37a4-435c-87c1-0429d49a0480.png" />
+</p>
 
 ## Table of Contents
 
