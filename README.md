@@ -20,7 +20,7 @@ For the classification task I have implemented the following models:
  - Inception net
  - EfficientNet
 
-For the final submission Inception net was used.
+For the final submission 
 
 ## Getting Started <a name = "getting_started"></a>
 
