@@ -1,8 +1,7 @@
 # Project Title
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55876739/133317364-870dfcd2-37a4-435c-87c1-0429d49a0480.png" />
-</p>
+<center><img src="images/68326206c9d806b037f75062066107e8d1a96e26714ff02167bafa0ae6c01c59.png"></center>
+
 
 ## Table of Contents
 
@@ -13,41 +12,27 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+The repository contains codes written for the Kaggle competition as a part of course GNR 638: Machine Learning for Remote Sensing in Semester 7 at IIT Bombay. The task for the competition was to perform image classification on the image dataset provided. The Deep Learning models were to be written from scratch and no transfer learning was to be used.
+
+## Models Used
+
+For the classification task I have implemented the following models:
+ - Inception net
+ - EfficientNet
+
+For the final submission Inception net was used.
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
+All the codes have been written in Python 3.7. Pytorch and torchvision are required to run the codes.  
+To run the Jupyter notebook, first clone the repository using the following command:  
+<code>
+ git clone https://github.com/TheShiningVampire/GNR638_Kaggle_Competition.git
+</code>
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Just open the CNN_train.ipynb file in Jupyter Notebook and run the code. To run a particular cell in the Jupyter notebook, just click on the cell and then press the run button or press shift+enter. 
+
 
 
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/TheShiningVampire/GNR638_Kaggle_Competition/blob/main/LICENSE)
