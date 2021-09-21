@@ -1,7 +1,7 @@
 # IMAGE CLASSIFICATION USING DEEP LEARNING
 
-<center><img src="images/68326206c9d806b037f75062066107e8d1a96e26714ff02167bafa0ae6c01c59.png"></center>
-
+<center><img src="images/68326206c9d806b037f75062066107e8d1a96e26714ff02167bafa0ae6c01c59.png">
+</center>
 
 ## Table of Contents
 
